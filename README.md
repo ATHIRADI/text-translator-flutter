@@ -7,16 +7,16 @@
         and a user-friendly interface.
     </p>
 
-    <h2>Features</h2>
+   <p>   <h2>Features</h2>  </p>
     
-    <ul>
+     <p> <ul>
         <li>Real-time text translation using the Google Translator API</li>
         <li>Supports multiple languages: English, Tamil, Telugu, Punjabi, and more</li>
         <li>Dropdown selection for input and output languages</li>
         <li>Clear error handling with dialogs for invalid inputs or failures</li>
         <li>Ability to clear input and output fields</li>
         <li>User-friendly and responsive design</li>
-    </ul>
+    </ul>  </p>
 
     <h2>Technologies Used</h2>
     <p>
