@@ -8,6 +8,7 @@
     </p>
 
     <h2>Features</h2>
+    
     <ul>
         <li>Real-time text translation using the Google Translator API</li>
         <li>Supports multiple languages: English, Tamil, Telugu, Punjabi, and more</li>
